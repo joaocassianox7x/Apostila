@@ -2,7 +2,7 @@
 Eu e o Washington Erly escrevemos uma apostila de introdução ao Python3 toda em português e voltada para estudantes de exatas.
 Todos os exemplos estão em um repositório do Git, junto com as versões mais novas da apostila.
 
-##A apostila é dividida em três partes:
+# A apostila é dividida em três partes:
 ```
 -Na primeira é falado sobre a sintaxe da linguagem;
 
